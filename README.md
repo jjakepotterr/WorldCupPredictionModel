@@ -15,6 +15,10 @@ This project is a simple AI-style chatbot that predicts a team's probability of 
 
 To run locally: train the model using the provided Google Colab notebook, then place model.pkl and label_encoder.pkl in the backend/ folder.
 
+## Link to Presentation 📺
+
+https://drive.google.com/file/d/1t-ukUV-2sPPDyZ4IkjMs_B1KN-vlhtZX/view?usp=sharing
+
 ## Google Colab Notebook
 
 [https://colab.research.google.com/drive/1NU_Q0fjlboBpCP7zU6OO3GwXziUpkmde
